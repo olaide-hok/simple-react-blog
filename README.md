@@ -1,3 +1,5 @@
+Click [here](https://dreamy-hopper-0cb324.netlify.app) to visit the simple blog site.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
